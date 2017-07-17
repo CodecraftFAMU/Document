@@ -1,0 +1,11 @@
+All of the netforce challenges:
+
+The problems given could be solved by most developers very easily, but would take new developers or untrained users a while to figure out. Help needs to be given to the new developers and untrained users.
+
+PicoCTF:
+
+The problems given could be solved by some developers (not as easily as the netforce challenges). However, to new developers and untrained users, this would be impossible without getting help online or from another developer.
+
+Generally:
+
+All of the challenges would require a developer (new or advanced) to teach a bit on how to crack/solve the password/issue/flag. Most advanced developers would solve all of these in less than 5 minutes, or even 1 minute.

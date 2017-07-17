@@ -1,0 +1,2 @@
+The net force Javascript was very intrestng and i understood how it takes effort to gather information.
+For the PicoCTF it was a little confusing because it said access denied but later we figured it out with a lot more work put into it afterwards.
